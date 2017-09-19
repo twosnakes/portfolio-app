@@ -3,7 +3,7 @@ class WorksController < ApplicationController
     
   end
 
-  def show
+  def resume
     
   end
 end
